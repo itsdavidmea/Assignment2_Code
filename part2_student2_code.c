@@ -38,6 +38,7 @@ int main()
         }
 
         sleep(4);
+        //kill(pid, SIGTERM); 
         
     }
 
